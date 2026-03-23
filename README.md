@@ -1,3 +1,5 @@
+<img width="1214" height="98" alt="image" src="https://github.com/user-attachments/assets/8f00b923-a635-4a73-8b9e-f78e4299b77a" />
+
 # 🎭 RBCD_Exploit - Resource-Based Constrained Delegation Attack Automation
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
